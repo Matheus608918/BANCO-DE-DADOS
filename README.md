@@ -1,2 +1,0 @@
-# BANCO-DE-DADOS
-BD TCC 
